@@ -1,2 +1,6 @@
-# power-bi-dashboard-music
-Interactive Power BI dashboard for Music &amp; Mental Health Survey Results
+# Интерактивный дашборд результатов опроса на тему "Музыка и ментальное здоровье"
+## Краткое описание 
+В данном проекте я анализирую данные, полученные в результате опроса пользователей платформ для прослушивания музыки с помощью дашбордов, построенных в Power BI.
+## Источник данных 
+Источником данных послужил датасет, взятый на [сайте Kaggle](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results){:target="_blank"}.
+
