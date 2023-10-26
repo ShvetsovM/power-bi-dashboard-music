@@ -3,4 +3,4 @@
 В данном проекте я анализирую данные, полученные в результате опроса пользователей платформ для прослушивания музыки с помощью дашбордов, построенных в Power BI.
 ## Источник данных 
 Источником данных послужил датасет, взятый на [сайте Kaggle](https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results){:target="_blank"}.
-
+<a href="placeholder.com" target="_blank">Opens in new tab</a>
